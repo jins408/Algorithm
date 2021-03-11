@@ -1,3 +1,5 @@
+# 음계
+
 number = list(map(int, input().split()))
 
 ascending = True
