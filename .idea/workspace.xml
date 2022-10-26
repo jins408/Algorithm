@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Level1/모의고사.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level1/로또의 최고순위와 최저순위.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +79,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.모의고사">
+  <component name="RunManager" selected="Python.로또의 최고순위와 최저순위">
     <configuration name="없는 숫자 더하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="약수의 개수와 덧셈" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="로또의 최고순위와 최저순위" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/Level1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/약수의 개수와 덧셈.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level1/로또의 최고순위와 최저순위.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,14 +207,15 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.로또의 최고순위와 최저순위" />
       <item itemvalue="Python.모의고사" />
-      <item itemvalue="Python.약수의 개수와 덧셈" />
       <item itemvalue="Python.deque_test" />
       <item itemvalue="Python.5099" />
       <item itemvalue="Python.b2920" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.로또의 최고순위와 최저순위" />
         <item itemvalue="Python.모의고사" />
         <item itemvalue="Python.deque_test" />
         <item itemvalue="Python.b2920" />
@@ -284,6 +283,11 @@
           <url>file://$PROJECT_DIR$/programmers/약수의 개수와 덧셈.py</url>
           <line>6</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Level1/로또의 최고순위와 최저순위.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
