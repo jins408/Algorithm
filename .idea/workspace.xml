@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/funtion/2찬원배열 1차원으로.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funtion/enumerate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funtion/lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funtion/map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funtion/slicing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Level1/가장 긴 팰린드롬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Level2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Level2/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Level2/거리두기 확인하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Level2/삼각달팽이.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Level2/이진변환반복하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Level2/튜플.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Level2/튜플2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level2/하노이의 탑.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Level1/신고결과(시간초과x).py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level1/신고결과(시간초과x).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/dqueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/funtion/dqueue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level2/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level2/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level2/이진변환반복하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level2/이진변환반복하기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +88,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.이진변환반복하기">
+  <component name="RunManager" selected="Python.하노이의 탑">
     <configuration name="가장 긴 팰린드롬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="튜플" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="하노이의 탑" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,7 +143,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/튜플.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/하노이의 탑.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="map" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,11 +223,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funtion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/Level2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funtion/map.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,19 +237,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.map" />
+      <item itemvalue="Python.test" />
       <item itemvalue="Python.이진변환반복하기" />
-      <item itemvalue="Python.튜플" />
       <item itemvalue="Python.튜플2" />
+      <item itemvalue="Python.하노이의 탑" />
       <item itemvalue="Python.2찬원배열 1차원으로" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.하노이의 탑" />
+        <item itemvalue="Python.튜플2" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.이진변환반복하기" />
         <item itemvalue="Python.2찬원배열 1차원으로" />
-        <item itemvalue="Python.튜플2" />
-        <item itemvalue="Python.map" />
-        <item itemvalue="Python.튜플" />
       </list>
     </recent_temporary>
   </component>
@@ -348,18 +335,13 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/funtion/2찬원배열 1차원으로.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/programmers/Level2/삼각달팽이.py</url>
           <line>3</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/programmers/Level2/test.py</url>
-          <line>4</line>
+          <line>5</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -374,8 +356,23 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/programmers/Level2/이진변환반복하기.py</url>
-          <line>11</line>
+          <line>9</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Level2/하노이의 탑.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Level2/하노이의 탑.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Level2/하노이의 탑.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

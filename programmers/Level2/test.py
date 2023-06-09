@@ -1,3 +1,4 @@
+
 def solution(n):
     dx = [0,1,-1]
     dy = [1,0,-1]
@@ -29,6 +30,7 @@ def solution(n):
                 answer.append(j)
 
     return answer
+
 
 n=4
 print(solution(n))

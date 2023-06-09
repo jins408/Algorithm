@@ -1,5 +1,3 @@
-
-
 def solution(s):
     # 이진 변환 횟수를 기록하는 변수 선언
     change = 0
