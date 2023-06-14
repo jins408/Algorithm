@@ -30,6 +30,6 @@ def solution(array):
 
     return answer
 
-array = [80,80,80,9,9,9]
+array = [80,80,80,9,9]
 # [1, 2, 3, 3, 3, 4]
 print(solution(array))
