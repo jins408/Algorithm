@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Beginner/2차원으로 만들기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Beginner/구슬을 나누는 경우의 수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Beginner/배열회전시키기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +86,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2차원으로 만들기">
+  <component name="RunManager" selected="Python.배열회전시키기">
     <configuration name="구슬을 나누는 경우의 수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="개미군단" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="배열회전시키기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,7 +204,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Beginner/개미군단.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Beginner/배열회전시키기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,17 +237,17 @@
     <list>
       <item itemvalue="Python.2차원으로 만들기" />
       <item itemvalue="Python.가위바위보" />
-      <item itemvalue="Python.개미군단" />
       <item itemvalue="Python.구슬을 나누는 경우의 수" />
       <item itemvalue="Python.모스부호(1)" />
+      <item itemvalue="Python.배열회전시키기" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.배열회전시키기" />
         <item itemvalue="Python.2차원으로 만들기" />
         <item itemvalue="Python.구슬을 나누는 경우의 수" />
         <item itemvalue="Python.가위바위보" />
         <item itemvalue="Python.모스부호(1)" />
-        <item itemvalue="Python.개미군단" />
       </list>
     </recent_temporary>
   </component>
@@ -409,9 +408,9 @@
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/programmers/Beginner/2차원으로 만들기.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="75" />
+          <url>file://$PROJECT_DIR$/programmers/Beginner/배열회전시키기.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="78" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
