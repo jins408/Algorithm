@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Beginner/가까운 수(작은 수를 앞으로).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Beginner/가까운 수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Beginner/중복된 문자 제거.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Beginner/컨트롤제트.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Beginner/369게임.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Beginner/암호해독.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,28 +87,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.가까운 수(작은 수를 앞으로)">
-    <configuration name="중복된 문자 제거" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/Beginner" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Beginner/중복된 문자 제거.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.암호해독">
     <configuration name="가장 긴 팰린드롬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="컨트롤제트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="중복된 문자 제거" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,7 +184,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Beginner/컨트롤제트.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Beginner/중복된 문자 제거.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,7 +193,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="소인수분해" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="암호해독" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -228,7 +205,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Beginner/소인수분해.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Beginner/암호해독.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="369게임" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/Beginner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Beginner/369게임.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,19 +236,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.369게임" />
       <item itemvalue="Python.가까운 수" />
       <item itemvalue="Python.가까운 수(작은 수를 앞으로)" />
-      <item itemvalue="Python.소인수분해" />
+      <item itemvalue="Python.암호해독" />
       <item itemvalue="Python.중복된 문자 제거" />
-      <item itemvalue="Python.컨트롤제트" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.암호해독" />
+        <item itemvalue="Python.369게임" />
         <item itemvalue="Python.가까운 수(작은 수를 앞으로)" />
         <item itemvalue="Python.가까운 수" />
         <item itemvalue="Python.중복된 문자 제거" />
-        <item itemvalue="Python.컨트롤제트" />
-        <item itemvalue="Python.소인수분해" />
       </list>
     </recent_temporary>
   </component>
@@ -459,6 +457,21 @@
           <url>file://$PROJECT_DIR$/programmers/Beginner/중복된 문자 제거.py</url>
           <line>3</line>
           <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Beginner/369게임.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Beginner/369게임.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Beginner/암호해독.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="127" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
