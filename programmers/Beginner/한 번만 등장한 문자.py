@@ -18,3 +18,7 @@ def solution(s):
 
 s="hello"
 print(solution(s))
+
+arr =[1,2,3,4]
+a = arr.index(arr[-1])
+print(a)
