@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Beginner/삼각형의 완성조건.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Beginner/외계어 사전.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +86,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.삼각형의 완성조건">
+  <component name="RunManager" selected="Python.외계어 사전">
     <configuration name="가장 긴 팰린드롬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="최대값 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="외계어 사전" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,7 +183,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Beginner/최대값 만들기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Beginner/외계어 사전.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,15 +239,15 @@
       <item itemvalue="Python.삼각형의 완성조건" />
       <item itemvalue="Python.숨어있는 숫자의 덧셈(2)" />
       <item itemvalue="Python.안전지대" />
-      <item itemvalue="Python.최대값 만들기" />
+      <item itemvalue="Python.외계어 사전" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.외계어 사전" />
         <item itemvalue="Python.삼각형의 완성조건" />
         <item itemvalue="Python.안전지대" />
         <item itemvalue="Python.숨어있는 숫자의 덧셈(2)" />
         <item itemvalue="Python.다항식 더하기" />
-        <item itemvalue="Python.최대값 만들기" />
       </list>
     </recent_temporary>
   </component>
@@ -551,6 +551,11 @@
           <url>file://$PROJECT_DIR$/programmers/Beginner/삼각형의 완성조건.py</url>
           <line>11</line>
           <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Beginner/외계어 사전.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="189" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
