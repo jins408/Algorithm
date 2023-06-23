@@ -9,6 +9,7 @@ def solution(polynomial):
     for i in b:
         if i[-1] == '2' and len(i) > 1:
             num += int(i[0:-1])
+            i.isdigit()
         elif i == '2':
             num += 1
         elif i == '1':
