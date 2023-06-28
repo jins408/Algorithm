@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Beginner/A로 B만들기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Beginner/k의 개수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Beginner/문자열밀기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Beginner/연속된 수의 합.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,8 +87,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.k의 개수">
-    <configuration name="이상한 정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.연속된 수의 합">
+    <configuration name="연속된 수의 합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Beginner/이상한 정렬.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Beginner/연속된 수의 합.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,7 +214,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="치킨쿠폰" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="문자열밀기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,7 +226,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Beginner/치킨쿠폰.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Beginner/문자열밀기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,16 +281,16 @@
       <item itemvalue="Python.A로 B만들기" />
       <item itemvalue="Python.k의 개수" />
       <item itemvalue="Python.등수 매기기" />
-      <item itemvalue="Python.치킨쿠폰" />
-      <item itemvalue="Python.이상한 정렬" />
+      <item itemvalue="Python.문자열밀기" />
+      <item itemvalue="Python.연속된 수의 합" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.연속된 수의 합" />
+        <item itemvalue="Python.문자열밀기" />
         <item itemvalue="Python.k의 개수" />
         <item itemvalue="Python.A로 B만들기" />
         <item itemvalue="Python.등수 매기기" />
-        <item itemvalue="Python.이상한 정렬" />
-        <item itemvalue="Python.치킨쿠폰" />
       </list>
     </recent_temporary>
   </component>
@@ -399,6 +399,21 @@
           <url>file://$PROJECT_DIR$/programmers/Beginner/k의 개수.py</url>
           <line>3</line>
           <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Beginner/문자열밀기.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Beginner/연속된 수의 합.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Beginner/연속된 수의 합.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="282" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
