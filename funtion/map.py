@@ -7,3 +7,24 @@ for item in data:
 
 num = list(map(int, numbers))
 print(num)
+
+a = ['8','7','3','2','1','1']
+print(int(''.join(a)))
+
+'''
+def solution(n):
+    answer = []
+
+    a = str(n)
+
+    for i in a:
+        answer.append(int(i))
+
+    answer.sort(reverse=True)
+
+    b = ''
+    for i in answer:
+        b += str(i)
+
+    return int(b)
+'''
