@@ -9,3 +9,4 @@ def solution(a, b):
     return answer
 
 print(solution(a,b))
+
