@@ -1,21 +1,13 @@
-numbers  = [1,2,3,4,6,7,8,0]
-
-
 def solution(numbers):
     answer = 0
 
-    arr = [-1]*10
-    for n in numbers:
-        arr[n] = n
+    num = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
-    for i in range(len(arr)):
-        if arr[i] == -1: answer += i
+    for i in num:
+        if i not in numbers:
+            answer += i
 
-
-    # for i in range(10):
-    #     if i not in numbers:
-    #         answer += i
     return answer
 
-
+numbers = [1,2,3,4,6,7,8,0]
 print(solution(numbers))
