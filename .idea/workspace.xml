@@ -86,7 +86,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.가장 가까운 글자(간단히)">
+  <component name="RunManager" selected="Python.가장 가까운 글자(find()함수)">
     <configuration name="크기가 작은 부분 문자열" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="가장 가까운 글자(간단히)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="가장 가까운 글자(find()함수)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level1/가장 가까운 글자(간단히).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level1/가장 가까운 글자(find()함수).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,12 +280,12 @@
       <item itemvalue="Python.k번째 수" />
       <item itemvalue="Python.k번째 수1" />
       <item itemvalue="Python.가장 가까운 글자" />
-      <item itemvalue="Python.가장 가까운 글자(간단히)" />
       <item itemvalue="Python.푸드파이트대화" />
+      <item itemvalue="Python.가장 가까운 글자(find()함수)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.가장 가까운 글자(간단히)" />
+        <item itemvalue="Python.가장 가까운 글자(find()함수)" />
         <item itemvalue="Python.가장 가까운 글자" />
         <item itemvalue="Python.푸드파이트대화" />
         <item itemvalue="Python.k번째 수" />
