@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Level1/명예의전당(1)짧은코드.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Level1/포켓몬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level1/과일장수.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Level1/명예의전당(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level1/명예의전당(1).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +86,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.포켓몬">
+  <component name="RunManager" selected="Python.과일장수">
     <configuration name="다항식 더하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2016" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="과일장수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,7 +183,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level1/2016.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level1/과일장수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,19 +256,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.과일장수" />
       <item itemvalue="Python.명예의전당(1)" />
       <item itemvalue="Python.명예의전당(1)짧은코드" />
       <item itemvalue="Python.포켓몬" />
-      <item itemvalue="Python.2016" />
       <item itemvalue="Python.추억 점수" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.과일장수" />
         <item itemvalue="Python.포켓몬" />
         <item itemvalue="Python.명예의전당(1)" />
         <item itemvalue="Python.명예의전당(1)짧은코드" />
         <item itemvalue="Python.추억 점수" />
-        <item itemvalue="Python.2016" />
       </list>
     </recent_temporary>
   </component>
@@ -505,7 +503,19 @@
           <line>5</line>
           <option name="timeStamp" value="337" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Level1/과일장수.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="355" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
