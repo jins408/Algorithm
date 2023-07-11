@@ -40,14 +40,13 @@ def solution(k, score):
         # temp에 score점수를 담고 항상 제일 작은 값만 찾으면 됌
         for i in range(1, len(score)):
             temp.append(score[i])
-            if min(temp) <= score[i]:
-                answer.append(min(temp))
+            answer.append(min(temp))
 
     return answer
 
 
-k = 3
-score = [10, 100, 20, 150, 1, 100, 200]
+k = 9
+score = [10, 30, 40, 3, 0, 20, 4]
     #[10, 30, 40, 3, 0, 20, 4]
     #[10, 100, 20, 150, 1, 100, 200]
 print(solution(k, score))
