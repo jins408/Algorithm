@@ -31,7 +31,7 @@ def solution(N, stages):
     print(fail)
 
     # 오름차순으로 정렬해주기 위해 fail배열에서 제일 큰 수의 인덱스를 찾아서 answer에 넣어줌
-    # 그리고 찾은 큰수는 제일 작은 수로 바꾸준다. 
+    # 그리고 찾은 큰수는 제일 작은 수로 바꾸준다.
     for i in range(len(fail)):
         answer.append(fail.index(max(fail))+1)
         fail[fail.index(max(fail))] = -1
