@@ -13,7 +13,8 @@ def solution(lottos, win_nums):
         for j in range(len(win_nums)):
             if lottos[i] == win_nums[j]:
                 num += 1
-
+    print(num)
+    print(cnt)
     # 0의 개수가 1게 이상이면, 최고순위가 바뀔수 있는 경우가 생겨서 각각 최저,최고 순위를 봐줌
     if cnt != 0:
         sum = num+cnt
@@ -31,7 +32,7 @@ def solution(lottos, win_nums):
 
     return answer
 
-lottos = [0, 0, 0, 0, 0, 0]
+lottos =[45, 4, 35, 20, 3, 9]
     #[1, 2, 3, 4, 5, 6]
     #[0, 0, 0, 0, 0, 0]
     #[45, 4, 35, 20, 3, 9] [1,1]
