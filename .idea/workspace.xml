@@ -257,9 +257,9 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.추억 점수" />
       <item itemvalue="Python.map" />
       <item itemvalue="Python.로또의 최고 순위와 최저 순위(1)" />
-      <item itemvalue="Python.숫자짝궁" />
       <item itemvalue="Python.옹알이(2)" />
       <item itemvalue="Python.체육복" />
     </list>
@@ -267,7 +267,6 @@
       <list>
         <item itemvalue="Python.체육복" />
         <item itemvalue="Python.옹알이(2)" />
-        <item itemvalue="Python.숫자짝궁" />
         <item itemvalue="Python.map" />
         <item itemvalue="Python.로또의 최고 순위와 최저 순위(1)" />
       </list>
@@ -328,6 +327,11 @@
           <url>file://$PROJECT_DIR$/programmers/Level1/옹알이(2).py</url>
           <line>5</line>
           <option name="timeStamp" value="460" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Level1/체육복.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="461" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

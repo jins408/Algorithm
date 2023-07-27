@@ -16,10 +16,13 @@ def solution(n, lost, reserve):
             reserve.remove(i)
             lost.remove(i)
 
+    print(reserve)
+    print(lost)
     # 체육복 빌려 줄수 있는 범위 확인하기
     for i in reserve:
         if i-1 in lost:
             lost.remove(i-1)
+        # 한 명에게만 빌려줄 수 있으므로 if - elif로 작성하여 하나의 조건에 대해서만 작업을 진행할 수 있도록 해야 한다.
         elif i+1 in lost:
             lost.remove(i+1)
 
@@ -29,6 +32,6 @@ def solution(n, lost, reserve):
 
 n = 5
 lost = [2,4]
-reserve = [1,3]
+reserve = [3]
     #[1,3,5]
 print(solution(n,lost,reserve))
