@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/programmers/Level1/완주하지 못한 선수.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Level1/체육복.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level1/체육복.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.체육복">
+  <component name="RunManager" selected="Python.완주하지 못한 선수">
     <configuration name="로또의 최고 순위와 최저 순위(1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="추억 점수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="완주하지 못한 선수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level1/추억 점수.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level1/완주하지 못한 선수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,7 +257,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.추억 점수" />
+      <item itemvalue="Python.완주하지 못한 선수" />
       <item itemvalue="Python.map" />
       <item itemvalue="Python.로또의 최고 순위와 최저 순위(1)" />
       <item itemvalue="Python.옹알이(2)" />
@@ -265,6 +265,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.완주하지 못한 선수" />
         <item itemvalue="Python.체육복" />
         <item itemvalue="Python.옹알이(2)" />
         <item itemvalue="Python.map" />
@@ -330,8 +331,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/programmers/Level1/체육복.py</url>
-          <line>23</line>
+          <line>21</line>
           <option name="timeStamp" value="461" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Level1/완주하지 못한 선수.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="465" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
