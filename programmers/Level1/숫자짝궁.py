@@ -5,11 +5,11 @@ def solution(X, Y):
     x_list = []
     for i in range(10):
         x_list.append(X.count(str(i)))
-    #print(x_list)
+    print(x_list)
     y_list = []
     for i in range(10):
         y_list.append(Y.count(str(i)))
-    #print(y_list)
+    print(y_list)
 
     for i in range(9, -1,-1): # 큰 숫자부터 answer에 추가해주도록 한다.(공통된 수 중에 제일 큰값을 결과값으로 받아야해서)
         for _ in range(min(x_list[i], y_list[i])): #x_list[i]와 y_list[i] 중 더 작은 값이 숫자 i의 공통된 개수
@@ -23,10 +23,10 @@ def solution(X, Y):
         answer = '0'
     return answer
 
-X = "100"
+X = "5525"
     #"5525"
     #"12321"
-Y = "123450"
+Y = "1255"
     #"1255"
     #"42531"
 print(solution(X, Y))

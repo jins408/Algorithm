@@ -11,7 +11,7 @@ def solution(n, lost, reserve):
     # 공통으로 존재하는 요소를 각 배열에 제거한다
     # 여벌 체육복을 가져온 학생이 체육복을 도난당했을 수 있습니다.
     # 이때 이 학생은 체육복을 하나만 도난당했다고 가정하며, 남은 체육복이 하나이기에 다른 학생에게는 체육복을 빌려줄 수 없습니다. 조건이 있기 때문에
-    for i in reserve[:]:
+    for i in reserve[:]: # reserve[1,3]인 경우 i=1, i=3
         if i in lost:
             reserve.remove(i)
             lost.remove(i)
@@ -32,6 +32,6 @@ def solution(n, lost, reserve):
 
 n = 5
 lost = [2,4]
-reserve = [3]
+reserve = [1,3]
     #[1,3,5]
 print(solution(n,lost,reserve))
