@@ -31,13 +31,13 @@ def solution(s, skip, index):
 
     return answer
 
-s = "klmnopqrstuvwxyz"
+s = "aukks"
     #"aukks"    -> "happy"
     #"klmnopqrstuvwxyz" ->"opqrstuvwxyzklmn"
-skip="abcdefghij"
+skip="wbqd"
     #"wbqd"
     #"abcdefghij"
-index =20
+index =5
     #5
     #20
 print(solution(s, skip,index))
