@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Level1/크레인 인형뽑기 게임.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Level1/둘만의 암호.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level1/둘만의 암호.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level1/크레인 인형뽑기 게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level1/크레인 인형뽑기 게임.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -367,7 +365,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/programmers/Level1/크레인 인형뽑기 게임.py</url>
-          <line>14</line>
+          <line>17</line>
           <option name="timeStamp" value="497" />
         </line-breakpoint>
       </breakpoints>

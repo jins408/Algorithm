@@ -16,8 +16,8 @@ def solution(board, moves):
     # 연속되는 두 수를 찾기위한 배열
     list_dup = []
     for i in range(0, len(temp)):
-        list_dup.append(temp[i])  # list_dup에 temp를 순서대로 쌓는다.
-        if len(list_dup) > 1:
+        list_dup.append(temp[i])  # list_dup에 temp[i]를 순서대로 쌓는다.(바로 이전값과 비교해주기 위해)
+        if len(list_dup) > 1: # list_dup 길이가 1이상일때 봐줘야 이전값과 비교할 수 있기때문에 조건을 걸어 줌
             if list_dup[-1] == list_dup[-2]:  # 쌓이는 마지막행과 마지막 이전행끼리 같으면
                 list_dup.pop(-1)
                 list_dup.pop(-1)
