@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Level1/키패드 누르기.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level1/키패드 누르기.py" afterDir="false" />
-    </list>
+    <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,8 +84,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.키패드 누르기">
-    <configuration name="크레인 인형뽑기 게임" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.크레인 인형뽑기 게임">
+    <configuration name="대충 만든 자판" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level1/크레인 인형뽑기 게임.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level1/대충 만든 자판.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="대충 만든 자판" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="크레인 인형뽑기 게임" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,7 +202,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level1/대충 만든 자판.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level1/크레인 인형뽑기 게임.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,17 +296,14 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.크레인 인형뽑기 게임" />
       <item itemvalue="Python.zip" />
       <item itemvalue="Python.숫자짝궁" />
-      <item itemvalue="Python.대충 만든 자판" />
       <item itemvalue="Python.문자열 나누기" />
-      <item itemvalue="Python.키패드 누르기" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.키패드 누르기" />
         <item itemvalue="Python.zip" />
-        <item itemvalue="Python.대충 만든 자판" />
         <item itemvalue="Python.문자열 나누기" />
       </list>
     </recent_temporary>
