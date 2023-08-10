@@ -5,7 +5,7 @@ def solution(today, terms, privacies):
     for i in range(len(terms)):
         term = terms[i]
         a = term[0:1]
-        b = term[2:4]
+        b = term[2:5] #유효기간이 100자리인 경우까지 있어서 3자리까지 잘라줘야함
         term_list[a] = b
     print(term_list)
 
@@ -27,9 +27,11 @@ def solution(today, terms, privacies):
             #print(day_)
             #달 = 계산된 달 % 12
             #연도 = 기존연도 + 계산된 달 // 12
-            month_ = month%12
-            #print(month_)
-            year = year+(month//12)
+            if month % 12 != 0:
+                month_ = month % 12
+            else:
+                month_ = (month - 1)%12+1
+            year += (month - 1) // 12
             #print(year)
 
             today = today.replace('.','')
@@ -47,13 +49,16 @@ def solution(today, terms, privacies):
 
     return answer
 
-today =  "2020.12.17"
+today =  "2019.11.01"
+    #"2020.12.17"
     #"2020.01.01"
     #"2022.05.19"
-terms =["A 12"]
+terms =["A 5"]
+    #["A 12"]
     #["Z 3", "D 5"]
     #["A 6", "B 12", "C 3"]
-privacies = ["2010.01.01 A", "2019.12.17 A"]
+privacies = ["2019.06.01 A", "2018.01.01 A"]
+    #["2010.01.01 A", "2019.12.17 A"]
     #["2019.01.01 D", "2019.11.15 Z", "2019.08.02 D", "2019.07.01 D", "2018.12.28 Z"]
     #["2021.05.02 A", "2021.07.01 B", "2022.02.19 C", "2022.02.20 C"]
 print(solution(today, terms, privacies))
