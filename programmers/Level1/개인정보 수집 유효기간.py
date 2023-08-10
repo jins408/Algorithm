@@ -8,10 +8,9 @@ def solution(today, terms, privacies):
         b = term[2:4]
         term_list[a] = b
     print(term_list)
-    data = []
-    for privacie in privacies:
-        privacie = list(map(str, privacie.split(' ')))
-        date_ = ''
+
+    for i in range(len(privacies)):
+        privacie = list(map(str, privacies[i].split(' ')))
         if privacie[1] in term_list:
             date = privacie[0]
             #print(date)
@@ -32,28 +31,29 @@ def solution(today, terms, privacies):
             #print(month_)
             year = year+(month//12)
             #print(year)
-            date_ += str(year)+str(month_)+str(day_)
-            data.append(date_)
-    print(data)
-    today = today.replace('.','')
-    print(today)
-    y = today[0:4]
-    m = today[4:6]
-    d = today[6:8]
-    for i in range(len(data)):
-        a = data[i]
-        print(a[0:4], a[4:6], a[6:8])
-        if a[0:4] <= y and a[4:6] <= m and a[6:8]<=d:
-            answer.append(i+1)
+
+            today = today.replace('.','')
+            y = int(today[0:4])
+            m = int(today[4:6])
+            d = int(today[6:8])
+
+            if year < y :
+                answer.append(i+1)
+            elif year==y and month_<m :
+                answer.append(i+1)
+            elif year==y and month_==m and day_<d:
+                answer.append(i+1)
 
 
     return answer
 
-today = "2022.05.19"
+today =  "2020.12.17"
+    #"2020.01.01"
     #"2022.05.19"
-terms = ["A 6", "B 12", "C 3"]
+terms =["A 12"]
+    #["Z 3", "D 5"]
     #["A 6", "B 12", "C 3"]
-privacies = ["2021.05.02 A", "2021.07.01 B", "2022.02.19 C", "2022.02.20 C"]
+privacies = ["2010.01.01 A", "2019.12.17 A"]
     #["2019.01.01 D", "2019.11.15 Z", "2019.08.02 D", "2019.07.01 D", "2018.12.28 Z"]
     #["2021.05.02 A", "2021.07.01 B", "2022.02.19 C", "2022.02.20 C"]
 print(solution(today, terms, privacies))
