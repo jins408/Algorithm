@@ -1,30 +1,26 @@
 def solution(today, terms, privacies):
     answer = []
 
+    # terms을 공백으로 나눠서 딕녀너리로 만들기
     term_list = {}
-    for i in range(len(terms)):
-        term = terms[i]
-        a = term[0:1]
-        b = term[2:5] #유효기간이 100자리인 경우까지 있어서 3자리까지 잘라줘야함
-        term_list[a] = b
+    for term in terms:
+        k, v = term.split()
+        term_list[k] = v
     print(term_list)
 
     for i in range(len(privacies)):
         privacie = list(map(str, privacies[i].split(' ')))
         if privacie[1] in term_list:
             date = privacie[0]
-            #print(date)
+            print(date)
+            # 날짜를 년,월,일로 나눠서 계산해주기
             month = int(date[5:7])+int(term_list[privacie[1]])
-            #print(month)
             year = int(date[0:4])
-            #print(year)
             day = int(date[8:11])
             day_ = day-1
             if day_ == 0:
                 month -= 1
                 day_ = 28
-            #    print(day_)
-            #print(day_)
             #달 = 계산된 달 % 12
             #연도 = 기존연도 + 계산된 달 // 12
             if month % 12 != 0:
@@ -32,8 +28,7 @@ def solution(today, terms, privacies):
             else:
                 month_ = (month - 1)%12+1
             year += (month - 1) // 12
-            #print(year)
-
+            # today 년,월,일 나눠서 date랑 비교
             today = today.replace('.','')
             y = int(today[0:4])
             m = int(today[4:6])
@@ -53,7 +48,7 @@ today =  "2019.11.01"
     #"2020.12.17"
     #"2020.01.01"
     #"2022.05.19"
-terms =["A 5"]
+terms =["A 12"]
     #["A 12"]
     #["Z 3", "D 5"]
     #["A 6", "B 12", "C 3"]

@@ -1,6 +1,15 @@
 name = ["may", "kein", "kain", "radi"]
 yearning = [5, 10, 1, 3]
 
+# 공백으로 나눠진 문자열 딕셔너리로 만들기
+terms =["Z 3", "D 5"]
+dic = dict()
+for term in terms:
+    k, v = term.split()
+    dic[k] = int(v)
+print(dic)
+
+
 # 빈 딕셔너리에 key, value 추가
 dic_name = {}
 for i in range(len(name)):
