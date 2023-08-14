@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Level1/공원 산책.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Level1/공원산책1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Level1/달리기 경주.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level1/달리기 경주.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level1/공원 산책.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level1/공원 산책.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level1/공원산책1.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level1/공원산책1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +89,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.공원 산책">
+  <component name="RunManager" selected="Python.공원산책1">
     <configuration name="공원 산책" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -331,8 +330,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.공원 산책" />
         <item itemvalue="Python.공원산책1" />
+        <item itemvalue="Python.공원 산책" />
         <item itemvalue="Python.달리기 경주" />
         <item itemvalue="Python.dictionary" />
         <item itemvalue="Python.개인정보 수집 유효기간" />
@@ -472,13 +471,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/programmers/Level1/공원 산책.py</url>
-          <line>20</line>
+          <line>13</line>
           <option name="timeStamp" value="571" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/programmers/Level1/공원산책1.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="572" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
