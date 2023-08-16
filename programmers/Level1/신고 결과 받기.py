@@ -1,6 +1,13 @@
+'''
 id_list = ["muzi", "frodo", "apeach", "neo"]
 report = ["muzi frodo","apeach frodo","frodo neo","muzi neo","apeach muzi"]
 k = 2
+'''
+
+id_list = ["con", "ryan"]
+reports = ["ryan con", "ryan con", "ryan con", "ryan con"]
+k = 3
+
 
 def solution(id_list, report, k):
     answer = [0] * len(id_list)
@@ -19,8 +26,9 @@ def solution(id_list, report, k):
         # dic_report에 신고한사람을 key로보고 신고받은 사람을 value에 넣어주기
         # dic_report = {'muzi': ['frodo', 'neo'], 'frodo': ['neo'], 'apeach': ['muzi', 'frodo'], 'neo': []}
         dic_report[report_value[0]].append(report_value[1])
-
+    print(dic_report)
     stop = set([i for i in stop if stop.count(i) >= k])
+    print(stop)
     # 신고받은 사람들 중 k번 이상 받은 사람들을 stop = {i} set 형태로 중복제거해서 다시 stop에 넣어줌 stop = {'frodo', 'neo'}
 
     # dic_report.items() key-value 쌍을 리스트 형태로 반환
@@ -32,4 +40,4 @@ def solution(id_list, report, k):
                 # 신고한 사람에게 신고처리한 결과를 메일로 보내줘야 함으로(신고당한 유저별로 각각 보내줘야해서 횟수를 +1로 해서 카운트)
     return answer
 
-print(solution(id_list, report, k))
+print(solution(id_list, reports, k))
