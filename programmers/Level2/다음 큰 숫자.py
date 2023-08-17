@@ -18,7 +18,7 @@ def solution(n):
             answer = a
             break
     # 2진수를 다시 10진수롤 바꿔주기
-    return int(answer,2) 
+    return int(answer,2)
 
 n = 78
 print(solution(n))
