@@ -1,5 +1,5 @@
 def solution(n, words):
-    answer = [0,0]
+    answer = [0,0] # 탈락한 사람이 없으면 [0,0]으로 표시해주기 위해서
 
     cnt = 0
     used_word = []
