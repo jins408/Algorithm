@@ -1,23 +1,25 @@
 def solution(people, limit):
     answer = 0
 
-    people.sort(reverse=True)
-    temp = []
-    for i in range(len(people)):
-        if limit/2 < people[i]:
-            temp.append(people[i])
-        elif temp[-1]+people[i] > limit:
-            break
+    people.sort() # 오름차순으로 정렬
 
-    for j in range(len(people)-len(temp), len((people))-1):
-        if people[j]+people[j+1] <= limit:
-            temp.append(people[j])
-
-    answer = len(temp)
+    # 이 문제의 포인트!
+    # 첫 번째 인덱스(0)와 마지막 인덱스(len(people)-1)에 포인터를 설정해서
+    # 그 합이 limit 초과일 때와 limit 이하일 때 구명보트에 2명, 1명 태워가며 포인터를 이동시키는 게 핵심
+    i = 0
+    j = len(people)-1
+    while i <= j:
+        if people[i]+people[j] <= limit:
+            i+=1
+            j-=1
+            answer+=1
+        else:
+            j-=1
+            answer+=1
 
     return answer
 
-people = [70,80,50]
+people = [40, 90, 60, 50]
     #[70, 50, 80, 50]
 limit = 100
 print(solution(people,limit))
