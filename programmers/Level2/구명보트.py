@@ -8,12 +8,15 @@ def solution(people, limit):
     # 그 합이 limit 초과일 때와 limit 이하일 때 구명보트에 2명, 1명 태워가며 포인터를 이동시키는 게 핵심
     i = 0
     j = len(people)-1
+    # i와 j값이 같아지면 while문 종료
     while i <= j:
         if people[i]+people[j] <= limit:
+            # limit보다 작으면 두명
             i+=1
             j-=1
             answer+=1
         else:
+            # limit보다 크면 한명만
             j-=1
             answer+=1
 
