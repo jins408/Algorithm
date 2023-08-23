@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Level2/기능 개발.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level2/프로세스.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +88,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.기능 개발">
+  <component name="RunManager" selected="Python.프로세스">
     <configuration name="행렬의 곱셈" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -278,7 +278,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="할인 행사" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="프로세스" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,7 +290,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/할인 행사.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/프로세스.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,17 +323,17 @@
     <list>
       <item itemvalue="Python.기능 개발" />
       <item itemvalue="Python.의상" />
+      <item itemvalue="Python.프로세스" />
       <item itemvalue="Python.할인 행사_1" />
       <item itemvalue="Python.행렬의 곱셈" />
-      <item itemvalue="Python.할인 행사" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.프로세스" />
         <item itemvalue="Python.기능 개발" />
         <item itemvalue="Python.의상" />
         <item itemvalue="Python.행렬의 곱셈" />
         <item itemvalue="Python.할인 행사_1" />
-        <item itemvalue="Python.할인 행사" />
       </list>
     </recent_temporary>
   </component>
@@ -430,8 +430,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/programmers/Level2/기능 개발.py</url>
-          <line>14</line>
+          <line>13</line>
           <option name="timeStamp" value="683" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Level2/프로세스.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="688" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
