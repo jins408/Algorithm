@@ -4,7 +4,7 @@ def solution(priorities, location):
 
     # (인덱스,priorities원소값) 튜블 형식으로 queue를 만들어줌
     queue = [(i,j) for i,j in enumerate(priorities)]
-
+    print(queue)
     while True:
         temp = queue.pop(0) #queue 맨 처음 값을 pop()
         # any for문 중에서 하나라도 조건에 맞다면 True

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Level2/뉴스 클러스터링.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level2/피로도.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/programmers/Level2/프로세스(any).py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level2/프로세스(any).py" afterDir="false" />
     </list>
@@ -89,7 +89,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.뉴스 클러스터링">
+  <component name="RunManager" selected="Python.피로도">
     <configuration name="키패드 누르기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,7 +258,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="기능개발1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="피로도" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,11 +266,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/Level2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/기능개발1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/피로도.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,18 +323,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.기능개발" />
-      <item itemvalue="Python.기능개발1" />
       <item itemvalue="Python.뉴스 클러스터링" />
       <item itemvalue="Python.프로세스 (1)" />
       <item itemvalue="Python.프로세스(any)" />
+      <item itemvalue="Python.피로도" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.뉴스 클러스터링" />
+        <item itemvalue="Python.피로도" />
         <item itemvalue="Python.프로세스(any)" />
+        <item itemvalue="Python.뉴스 클러스터링" />
         <item itemvalue="Python.프로세스 (1)" />
         <item itemvalue="Python.기능개발" />
-        <item itemvalue="Python.기능개발1" />
       </list>
     </recent_temporary>
   </component>
@@ -451,8 +451,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/programmers/Level2/뉴스 클러스터링.py</url>
-          <line>34</line>
+          <line>36</line>
           <option name="timeStamp" value="693" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Level2/피로도.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="695" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
