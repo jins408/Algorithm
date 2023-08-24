@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice/기능개발.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/프로세스.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Level2/프로세스(any).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level2/뉴스 클러스터링.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Level2/프로세스.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level2/프로세스.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level2/프로세스(any).py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level2/프로세스(any).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +89,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.프로세스(any)">
+  <component name="RunManager" selected="Python.뉴스 클러스터링">
     <configuration name="키패드 누르기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -239,7 +237,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="프로세스" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="뉴스 클러스터링" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,7 +249,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/프로세스.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/뉴스 클러스터링.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,17 +324,17 @@
     <list>
       <item itemvalue="Python.기능개발" />
       <item itemvalue="Python.기능개발1" />
-      <item itemvalue="Python.프로세스" />
+      <item itemvalue="Python.뉴스 클러스터링" />
       <item itemvalue="Python.프로세스 (1)" />
       <item itemvalue="Python.프로세스(any)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.뉴스 클러스터링" />
         <item itemvalue="Python.프로세스(any)" />
         <item itemvalue="Python.프로세스 (1)" />
         <item itemvalue="Python.기능개발" />
         <item itemvalue="Python.기능개발1" />
-        <item itemvalue="Python.프로세스" />
       </list>
     </recent_temporary>
   </component>
@@ -450,6 +448,11 @@
           <url>file://$PROJECT_DIR$/programmers/Level2/프로세스(any).py</url>
           <line>8</line>
           <option name="timeStamp" value="691" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Level2/뉴스 클러스터링.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="693" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

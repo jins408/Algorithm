@@ -7,7 +7,7 @@ def solution(priorities, location):
 
     while True:
         temp = queue.pop(0) #queue 맨 처음 값을 pop()
-        # any for문 중에서 하나라도 조건에 맞다면 True  
+        # any for문 중에서 하나라도 조건에 맞다면 True
         if any(temp[1] < i[1] for i in queue):
             # 조건에 해당하면 temp를 queue에 다시 추가(맨뒤로)
             queue.append(temp)
