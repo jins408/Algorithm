@@ -2,8 +2,6 @@ from collections import deque
 def solution(priorities, location):
     # 인덱스가 0부터 시작해서 처음부터 answer=1로 해준다(찾고자 하는 값이 리스트 인덱스1부터 시작해서 값을 찾기때문에)
     answer = 1
-    #queue = deque((i, j) for i, j in enumerate(priorities))
-    #print(queue)
     temp = deque(priorities)
     print(temp)
     # 찾고자 하는 값을 location으로 잡아준다
