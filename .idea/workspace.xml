@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Level2/타켓넘버.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level2/전화번호 목록.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +88,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.타켓넘버">
+  <component name="RunManager" selected="Python.전화번호 목록">
     <configuration name="키패드 누르기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="뉴스 클러스터링" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="전화번호 목록" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,7 +227,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/뉴스 클러스터링.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/전화번호 목록.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,7 +321,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.뉴스 클러스터링" />
+      <item itemvalue="Python.전화번호 목록" />
       <item itemvalue="Python.타켓넘버" />
       <item itemvalue="Python.프로세스(any)" />
       <item itemvalue="Python.피로도" />
@@ -329,11 +329,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.전화번호 목록" />
         <item itemvalue="Python.타켓넘버" />
         <item itemvalue="Python.피로도_" />
         <item itemvalue="Python.피로도" />
         <item itemvalue="Python.프로세스(any)" />
-        <item itemvalue="Python.뉴스 클러스터링" />
       </list>
     </recent_temporary>
   </component>
@@ -467,6 +467,11 @@
           <url>file://$PROJECT_DIR$/programmers/Level2/타켓넘버.py</url>
           <line>15</line>
           <option name="timeStamp" value="698" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Level2/전화번호 목록.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="699" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
