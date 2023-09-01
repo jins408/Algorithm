@@ -438,11 +438,6 @@
           <line>17</line>
           <option name="timeStamp" value="731" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/programmers/Level2/땅따먹기.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="736" />
-        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
