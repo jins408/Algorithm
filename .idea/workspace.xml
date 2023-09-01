@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/programmers/Level2/게임 맵 최단거리.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Level2/땅따먹기.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level2/땅따먹기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,8 +88,8 @@
       <recent name="$PROJECT_DIR$/funtion" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.땅따먹기">
-    <configuration name="주자 요금 계산" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.게임 맵 최단거리">
+    <configuration name="게임 맵 최단거리" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +101,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/주자 요금 계산.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/게임 맵 최단거리.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,19 +321,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.게임 맵 최단거리" />
       <item itemvalue="Python.땅따먹기" />
       <item itemvalue="Python.모음사전" />
       <item itemvalue="Python.사전에서 단어찾기" />
       <item itemvalue="Python.오픈채팅방" />
-      <item itemvalue="Python.주자 요금 계산" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.게임 맵 최단거리" />
         <item itemvalue="Python.땅따먹기" />
         <item itemvalue="Python.모음사전" />
         <item itemvalue="Python.오픈채팅방" />
         <item itemvalue="Python.사전에서 단어찾기" />
-        <item itemvalue="Python.주자 요금 계산" />
       </list>
     </recent_temporary>
   </component>
@@ -437,6 +437,11 @@
           <url>file://$PROJECT_DIR$/programmers/Level2/모음사전.py</url>
           <line>17</line>
           <option name="timeStamp" value="731" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Level2/게임 맵 최단거리.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="742" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
