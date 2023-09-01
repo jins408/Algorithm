@@ -10,13 +10,15 @@ def solution(land):
             continue
         # DP 테이블 업데이트
         for j in range(4):
+            maxValue = -1
             for k in range(4):
                 if k != j:
-                    a = max([dp[i - 1][k]])
-                    dp[i][j] = land[i][j] + a
+                    maxValue = max(maxValue, dp[i - 1][k])
+                    dp[i][j] = land[i][j] + maxValue
             #dp[i][j] = land[i][j] + max([dp[i - 1][k] for k in range(4) if k != j])
-
+    print(dp)
     return max(dp[-1])
-
+#[[1, 2, 3, 5], [10, 11, 12, 11], [15, 14, 13, 13]]
+#[[1, 2, 3, 5], [10, 11, 12, 11], [16, 15, 13, 13]]
 land = [[1,2,3,5],[5,6,7,8],[4,3,2,1]]
 print(solution(land))
