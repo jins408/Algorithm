@@ -24,6 +24,6 @@ def solution(scoville, k):
     else:
         return cnt
 
-scoville = [1]
-k = 2
+scoville = [1, 2, 3, 9, 10, 12]
+k = 7
 print(solution(scoville, k))
