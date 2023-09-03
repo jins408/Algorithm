@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Level2/게임 맵 최단거리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review/오픈 채팅방.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +88,7 @@
       <recent name="$PROJECT_DIR$/funtion" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.게임 맵 최단거리">
+  <component name="RunManager" selected="Python.오픈 채팅방">
     <configuration name="게임 맵 최단거리" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -236,7 +236,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="사전에서 단어찾기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="오픈 채팅방" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,11 +244,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/사전에서 단어찾기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review/오픈 채팅방.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,16 +324,16 @@
       <item itemvalue="Python.게임 맵 최단거리" />
       <item itemvalue="Python.땅따먹기" />
       <item itemvalue="Python.모음사전" />
-      <item itemvalue="Python.사전에서 단어찾기" />
+      <item itemvalue="Python.오픈 채팅방" />
       <item itemvalue="Python.오픈채팅방" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.오픈 채팅방" />
         <item itemvalue="Python.게임 맵 최단거리" />
         <item itemvalue="Python.땅따먹기" />
         <item itemvalue="Python.모음사전" />
         <item itemvalue="Python.오픈채팅방" />
-        <item itemvalue="Python.사전에서 단어찾기" />
       </list>
     </recent_temporary>
   </component>
