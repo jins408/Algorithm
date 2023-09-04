@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Level2/방문길이.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/Level2/뒤에 있는 쿤 수 찾기(stack).py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level2/뒤에 있는 쿤 수 찾기(stack).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/Level2/방문길이.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level2/방문길이.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -323,10 +322,11 @@
     </configuration>
     <list>
       <item itemvalue="Python.뒤에 있는 큰 수 찾기" />
-      <item itemvalue="Python.방문길이" />
-      <item itemvalue="Python.뒤에 있는 쿤 수 찾기(stack)" />
-      <item itemvalue="Python.뒤에 있는 큰 수 찾기(heapq)" />
       <item itemvalue="Python.뒤에 있는 큰 수 찾기(시간초과)" />
+      <item itemvalue="Python.뒤에 있는 큰 수 찾기(heapq)" />
+      <item itemvalue="Python.뒤에 있는 쿤 수 찾기(stack)" />
+      <item itemvalue="Python.둘만의 암호" />
+      <item itemvalue="Python.방문길이" />
     </list>
     <recent_temporary>
       <list>
