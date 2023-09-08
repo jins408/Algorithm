@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Review/프렌즈 블록.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/funtion/2찬원배열 1차원으로.py" beforeDir="false" afterPath="$PROJECT_DIR$/funtion/2찬원배열 1차원으로.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

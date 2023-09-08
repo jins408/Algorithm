@@ -10,7 +10,9 @@ print(list2)
 
 
 # 1차원 문자열 각각 원소별로 나눠서 2차원 리스트로 만들기
+
 m = 4
+n = 5
 board =["CCBDE", "AAADE", "AAABF", "CCBBF"]
 board = [list(board[i]) for i in range(m)]
 print(board)
