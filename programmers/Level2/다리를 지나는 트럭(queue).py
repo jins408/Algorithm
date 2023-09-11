@@ -35,4 +35,4 @@ def solution(bridge_length, weight, truck_weights):
 bridge_length = 2
 weight = 10
 truck_weights = [7,4,5,6]
-zprint(solution(bridge_length, weight, truck_weights))
+print(solution(bridge_length, weight, truck_weights))
