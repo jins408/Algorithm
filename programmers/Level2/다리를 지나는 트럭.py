@@ -17,7 +17,7 @@ def solution(bridge_length, weight, truck_weights):
         stack.pop(0)  # 0값을 stack에서 뽑아주고
 
         if truck_weights: # truck_weights 리스트의 첫번째 값이랑 stack의 모든 원소의 sum값을 합한 값을 weight와 비교
-            if sum(stack)+truck_weights[0] <= weight:
+            if sum(stack)+truck_weights[0] <= weight:   # sum(시간초과)
                 a = truck_weights.pop(0)
                 # stack에 truck_weights값을 넣어준다.
                 stack.append(a)
