@@ -1,4 +1,4 @@
-l = ['a','b','c']
+l = ['1','7']
 visited = [0 for _ in range(len(l))]
 answer = []
 
