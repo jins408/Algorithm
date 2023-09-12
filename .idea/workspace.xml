@@ -88,7 +88,7 @@
       <recent name="$PROJECT_DIR$/funtion" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.가장 큰 수 (1)">
+  <component name="RunManager" selected="Python.가장 큰 수">
     <configuration name="가장 큰 수 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -308,8 +308,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.가장 큰 수 (1)" />
         <item itemvalue="Python.가장 큰 수" />
+        <item itemvalue="Python.가장 큰 수 (1)" />
         <item itemvalue="Python.파일명 정렬" />
         <item itemvalue="Python.2찬원배열 1차원으로" />
         <item itemvalue="Python.모음사전" />
@@ -396,11 +396,6 @@
           <url>file://$PROJECT_DIR$/programmers/Level2/모음사전.py</url>
           <line>17</line>
           <option name="timeStamp" value="806" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/programmers/Level2/가장 큰 수.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="809" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
