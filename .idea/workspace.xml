@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Level2/2개 이하로 다른 비트.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level2/쿼드 압축 후 개수 세기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +88,7 @@
       <recent name="$PROJECT_DIR$/funtion" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2개 이하로 다른 비트">
+  <component name="RunManager" selected="Python.쿼드 압축 후 개수 세기">
     <configuration name="뒤에 있는 쿤 수 찾기(stack)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="큰 수 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="쿼드 압축 후 개수 세기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,7 +206,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/큰 수 만들기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/쿼드 압축 후 개수 세기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,18 +259,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.2개 이하로 다른 비트" />
+      <item itemvalue="Python.쿼드 압축 후 개수 세기" />
       <item itemvalue="Python.뒤에 있는 쿤 수 찾기(stack)" />
-      <item itemvalue="Python.큰 수 만들기" />
       <item itemvalue="Python.큰 수 만들기 (1)" />
       <item itemvalue="Python.큰 수 만들기(stack)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.쿼드 압축 후 개수 세기" />
         <item itemvalue="Python.2개 이하로 다른 비트" />
         <item itemvalue="Python.큰 수 만들기 (1)" />
         <item itemvalue="Python.큰 수 만들기(stack)" />
         <item itemvalue="Python.뒤에 있는 쿤 수 찾기(stack)" />
-        <item itemvalue="Python.큰 수 만들기" />
       </list>
     </recent_temporary>
   </component>
@@ -384,6 +384,11 @@
           <url>file://$PROJECT_DIR$/programmers/Level2/2개 이하로 다른 비트.py</url>
           <line>3</line>
           <option name="timeStamp" value="822" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Level2/쿼드 압축 후 개수 세기.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="823" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
