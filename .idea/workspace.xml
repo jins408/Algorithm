@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Review/방금 그곡.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sw expert/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +91,7 @@
       <recent name="$PROJECT_DIR$/funtion" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.방금 그곡 (1)">
+  <component name="RunManager" selected="Python.test">
     <configuration name="전력망을 둘로 나누기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,8 +248,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.방금 그곡 (1)" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.방금 그곡 (1)" />
         <item itemvalue="Python.방금 그곡" />
         <item itemvalue="Python.주자 요금 계산" />
         <item itemvalue="Python.무인도 여행 (1)" />
