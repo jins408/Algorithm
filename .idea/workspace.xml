@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d706636f-6a7d-4630-bed0-c1f0384dc2b9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/programmers/Level2/괄호 변환.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/Level2/괄호 변환.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Level2/호텔 대실.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +91,7 @@
       <recent name="$PROJECT_DIR$/funtion" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.괄호 변환">
+  <component name="RunManager" selected="Python.호텔 대실">
     <configuration name="전력망을 둘로 나누기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="방금 그곡" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="호텔 대실" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,7 +167,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/방금 그곡.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Level2/호텔 대실.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,16 +243,16 @@
       <item itemvalue="Python.bfs" />
       <item itemvalue="Python.괄호 변환" />
       <item itemvalue="Python.방금 그곡 (1)" />
-      <item itemvalue="Python.방금 그곡" />
+      <item itemvalue="Python.호텔 대실" />
       <item itemvalue="Python.전력망을 둘로 나누기" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.호텔 대실" />
         <item itemvalue="Python.괄호 변환" />
         <item itemvalue="Python.전력망을 둘로 나누기" />
         <item itemvalue="Python.bfs" />
         <item itemvalue="Python.방금 그곡 (1)" />
-        <item itemvalue="Python.방금 그곡" />
       </list>
     </recent_temporary>
   </component>
@@ -470,6 +471,11 @@
           <url>file://$PROJECT_DIR$/programmers/Level2/괄호 변환.py</url>
           <line>31</line>
           <option name="timeStamp" value="858" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/Level2/호텔 대실.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="865" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
