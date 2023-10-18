@@ -33,6 +33,7 @@ def solution(m, musicinfos):
             index += 1
             time -= 1
         # m이 value에 존재하고 answer에 값이 이미 존재하고 max_time이 play_time보다 크거나 같다면 continue
+        # -> 조건이 일치하는 음악이 여러 개일 때에는 라디오에서 재생된 시간이 제일 긴 음악 제목을 반환, 재생된 시간도 같을 경우 먼저 입력된 음악 제목을 반환
         if m in value:
             if answer:
                 if max_time >= play_time:
@@ -47,6 +48,6 @@ def solution(m, musicinfos):
     else:
         return '(None)'
 
-m = "ABCDEFG"
-musicinfos = ["12:00,12:14,HELLO,CDEFGAB", "13:00,13:05,WORLD,ABCDEF"]
+m = "CC#BCC#BCC#BCC#B"
+musicinfos = ["03:00,03:30,FOO,CC#B", "04:00,04:08,BAR,CC#BCC#BCC#B"]
 print(solution(m,musicinfos))
