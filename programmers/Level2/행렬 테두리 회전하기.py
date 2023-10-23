@@ -15,17 +15,25 @@ def solution(rows, columns, queries):
         mini = temp
 
         # 왼쪽 세로
-        for k in range(x1 - 1, x2 - 1):
-            test = arr[k + 1][y1 - 1]
-            arr[k][y1 - 1] = test
+        for k in range(x1-1, x2-1):
+            test = arr[k+1][y1-1]
+            arr[k][y1-1] = test
             mini = min(mini, test)
 
-        # 하단 가로
+        for k in range(y1-1, y2-1):  # 하단 가로
+            test = arr[x2-1][k+1]
+            arr[x2-1][k] = test
+            mini = min(mini, test)
 
-        # 왼쪽 세로
+        for k in range(x2-1, x1-1, -1):  # 오른쪽 세로
+            test = arr[k-1][y2-1]
+            arr[k][y2-1] = test
+            mini = min(mini, test)
 
-
-        # 상단 가로
+        for k in range(y2-1, y1-1, -1):  # 상단 가로
+            test = arr[x1-1][k-1]
+            arr[x1-1][k] = test
+            mini = min(mini, test)
 
 
 
