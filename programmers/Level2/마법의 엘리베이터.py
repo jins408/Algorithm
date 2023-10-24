@@ -1,15 +1,21 @@
 def solution(storey):
     answer = 0
 
-    while True:
-        storey, moves = divmod(storey, 10)
-        #print(storey, moves)
-        if moves > 5 or ( moves == 5 and storey%10 >= 5):
-            moves = 10-moves
-            storey += 1
-        answer += moves
-        if storey == 0:
-            break
+    while storey:
+        div = storey%10
+        # 6~9
+        if div > 5:
+            answer += (10-div)
+            storey += 10
+        # 0~4
+        elif div < 5:
+            answer += div
+        # 5
+        else:
+            if (storey//10)%10 > 4:
+                storey += 10
+            answer += div
+        storey//=10
 
     return answer
 
