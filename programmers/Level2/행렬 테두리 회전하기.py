@@ -8,10 +8,13 @@ def solution(rows, columns, queries):
         for j in range(columns):
             arr[i][j] = num
             num += 1
-   # print(arr)
 
     for x1,y1,x2,y2 in queries:
-        temp = arr[x1-1][y1-1]
+        # array[x1-1][y1-1]값은 array[x-1][y1]로 이동을 해줘야 하는 값인데
+        # 첫번째 for문이 왼쪽 세로 부분이기 때문에 상단 가로 for문이 돌아갈 때 옮겨질 예정인 값
+        temp = arr[x1-1][y1-1] # 8을 가지고있고
+        # 현재 값을 옮기면서 array[x-1][y-1]값이 다른 값으로 대체되기 때문에 그 값을 저장해서 마지막에 넣어주기 위해 가지고 있는 것
+        # 8이 있던 위치가 14로 바뀐다
         mini = temp
 
         # 왼쪽 세로
@@ -35,7 +38,10 @@ def solution(rows, columns, queries):
             arr[x1-1][k] = test
             mini = min(mini, test)
 
-
+        # tmp에 저장한 값을 다시 array[x1-1][y1-1] 에 넣어주는 과정이 마지막에 들어가야 한다.
+        # 그 이후 회전한 값 중 제일 최솟값을 정답 배열에 추가해주면 한 회전이 끝난다.
+        arr[x1-1][y1] = temp
+        answer.append(mini)
 
     return answer
 
